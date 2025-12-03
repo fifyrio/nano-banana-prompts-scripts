@@ -1,0 +1,24 @@
+[
+  {
+    "author": "香蕉团队",
+    "authorUrl": "https://example.com/profiles/banana-team",
+    "category": "办公",
+    "id": 1,
+    "imageUrl": "https://example.com/images/summary-helper.png",
+    "prompt": "用三句话以内总结用户的输入要点。",
+    "tags": [],
+    "title": "摘要小助手",
+    "description": "适合快速了解长文本的核心信息。"
+  },
+  {
+    "author": "代码猿",
+    "authorUrl": "https://example.com/profiles/code-monkey",
+    "category": "编程",
+    "id": 2,
+    "imageUrl": "https://example.com/images/code-explainer.png",
+    "prompt": "用中文详细讲解给出的代码，并提供时间复杂度分析。",
+    "tags": [],
+    "title": "代码讲解员",
+    "description": "帮助初学者理解代码逻辑和性能。"
+  }
+]
