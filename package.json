@@ -1,0 +1,17 @@
+{
+  "name": "nano-banana-prompts-scripts",
+  "version": "1.0.0",
+  "description": "Generate prompts-<lang>.json files from the upstream README.",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node scripts/generate_prompts_json.js --readme samples/README.sample.md --output-dir outputs",
+    "tag:en": "node scripts/generate_prompt_tags.js --input outputs/prompts-en.json --output outputs/prompts-en.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@openrouter/sdk": "^0.0.8"
+  }
+}

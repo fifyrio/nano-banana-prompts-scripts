@@ -1,0 +1,24 @@
+[
+  {
+    "author": "Banana Team",
+    "authorUrl": "https://example.com/profiles/banana-team",
+    "category": "Productivity",
+    "id": 1,
+    "imageUrl": "https://example.com/images/quick-start.png",
+    "prompt": "Provide a concise, actionable starter response for the user's question in under 50 words.",
+    "tags": [],
+    "title": "Quick Start Reply",
+    "description": "Great for initializing a conversation with a clear, short answer."
+  },
+  {
+    "author": "Tutor Bot",
+    "authorUrl": "https://example.com/profiles/tutor-bot",
+    "category": "Education",
+    "id": 2,
+    "imageUrl": "https://example.com/images/friendly-tutor.png",
+    "prompt": "Explain the requested concept like a friendly teacher and include a simple example.",
+    "tags": [],
+    "title": "Friendly Tutor",
+    "description": "Helps simplify complex topics for new learners."
+  }
+]
